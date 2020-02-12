@@ -1,11 +1,11 @@
 # Site settings
 author: Gilberto Ocampo
-title: 
+title: Choosing to go embrace the future
 header-img: img/home-bg.png
 email: ocampo@gate.net
 copyright_name: Gilberto Ocampo
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Why I  decided to Study Software Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  gilberto64
